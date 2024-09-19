@@ -1,0 +1,22 @@
+words = [
+    "apple",
+    "banana",
+    "orange",
+    "laptop",
+    "keyboard",
+    "python",
+    "hyprland",
+    "mountain",
+    "umbrella",
+    "jazz",
+    "avocado",
+    "chocolate",
+    "airplane",
+    "dinosaur",
+    "galaxy",
+    "volcano",
+    "magnet",
+    "kangaroo",
+    "elephant",
+    "puzzle"
+]
